@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/umashankar3/LEGENDBOT/",
+  "website": "https://github.com/umashankar3/LEGENDBOT/",
+  "success_url": "https://t.me/shayari_jok",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "UMASHANKAR31",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "@Umashankar31 is Online",
       "required": false
     },
     "ABUSE": {
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@shayari_jok",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@shayari_jok",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "i am umashankar.",
       "required": true
     },
     "PM_PIC": {
@@ -141,7 +141,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://repl.it/@umashankar3/LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
